@@ -1,0 +1,5 @@
+name: HCFColoredNames
+author: Kenny
+description: Adds colored names based on faction members, enemies, archer tag, etc
+main: me.kenny.hcfcolorednames.HCFColoredNames
+version: 0.1
